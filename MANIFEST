@@ -2,7 +2,6 @@ Changes
 Makefile.PL
 MANIFEST
 README
-t/Uddi.t
 t/25-uddi.t
 t/29-uddi_publishing.t
 t/28-uddi_search.t
